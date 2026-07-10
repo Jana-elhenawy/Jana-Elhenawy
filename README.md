@@ -16,7 +16,7 @@
 
 ## About
 
-Second-year CS student shipping real products — from a **CBE national fintech competition** entry to a **banking data science internship** to a cloud-based rehabilitation platform. I work across full-stack web dev, database systems, and data science, and I care deeply about the details that make software feel finished.
+Third-year IS student shipping real products — from a **CBE national fintech competition** entry to a **banking data science internship** to a cloud-based rehabilitation platform. I work across full-stack web dev, database systems, and data science, and I care deeply about the details that make software feel finished.
 
 ---
 
